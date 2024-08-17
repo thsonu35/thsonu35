@@ -35,7 +35,6 @@ Check out the site from this link: [Explore Project](https://thsonu35.github.io/
 
 ## 📈 GitHub Stats
 
-![Sohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohan&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=false&bg_color=0d1117&text_color=c9d1d9&icon_color=79c0ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan&layout=compact&hide_border=false&bg_color=0d1117&text_color=c9d1d9&icon_color=79c0ff)
 
