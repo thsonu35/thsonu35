@@ -33,11 +33,11 @@ A JavaScript-based note-taking application. [Explore Project](https://project1-o
 ### 🖥️ HTML-CSS-PROJECT
 Check out the site from this link: [Explore Project](https://thsonu35.github.io/HTML-CSS-PROJECT/index.html) <!-- Link to your project -->
 
-## 📈 Stats
+## 📈 GitHub Stats
 
-![Sohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohan&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=79c0ff)
+![Sohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohan&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=false&bg_color=0d1117&text_color=c9d1d9&icon_color=79c0ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=79c0ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan&layout=compact&hide_border=false&bg_color=0d1117&text_color=c9d1d9&icon_color=79c0ff)
 
 ## 🎨 Technologies & Tools
 
