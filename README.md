@@ -4,11 +4,11 @@
 
 ## About Me
 
-Hi there! I'm Sohan, a passionate web developer with a strong focus on **MERN** stack and **Python Django**. I love building dynamic and engaging web applications and exploring the world of technology.
+Hi there! I'm Sohan, a passionate web developer with a strong focus on **MERN** stack. I love building dynamic and engaging web applications and exploring the world of technology.
 
 - 💻 **Tech Stack:**
   - **Frontend:** React, HTML, CSS
-  - **Backend:** Express.js, Django, Node.js
+  - **Backend:** Express.js, Node.js
   - **Database:** MongoDB, SQL
 
 - 🌐 **Links:**
