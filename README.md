@@ -41,9 +41,9 @@ Check out the site from this link: [Explore Project](https://thsonu35.github.io/
 ## 🎨 Technologies & Tools
 
 - **React, Node.js, Express.js**
-- **Django, Python**
+- **TailwindCss, Material-Ui**
 - **MongoDB, SQL**
-- **HTML, CSS**
+- **HTML, CSS, Javascript**
 
 ## 📬 Let's Connect!
 
