@@ -7,7 +7,7 @@
 Hi there! I'm Sohan, a passionate web developer with a strong focus on **MERN** stack. I love building dynamic and engaging web applications and exploring the world of technology.
 
 - 💻 **Tech Stack:**
-  - **Frontend:** React,React Native HTML, CSS
+  - **Frontend:** React, HTML, CSS, js, tailwind
   - **Backend:** Express.js, Node.js
   - **Database:** MongoDB, SQL
 
