@@ -4,16 +4,16 @@
 
 ## About Me
 
-Hi there! I'm Sohan, a passionate web developer with a strong focus on **MERN** stack. I love building dynamic and engaging web applications and exploring the world of technology.
+Hi there! I'm Sohan, a passionate web developer with a strong focus on **Sql, Python , React**. I love building dynamic and engaging web applications and exploring the world of technology.
 
 - 💻 **Tech Stack:**
   - **Frontend:** React, HTML, CSS, js, tailwind
-  - **Backend:** Express.js, Node.js
+  - **Backend:** Express.js, Node.js, Python , Django
   - **Database:** MongoDB, SQL
 
 - 🌐 **Links:**
   - [LinkedIn](https://www.linkedin.com/in/sohan--thakur/)
-  - [Portfolio](https://sohan-singh-thakur.onrender.com/) <!-- Link to your portfolio website -->
+  - [Portfolio](https://sohan-wslj.onrender.com/) <!-- Link to your portfolio website -->
   
 
 ## 🛠️ Projects
