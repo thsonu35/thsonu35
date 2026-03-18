@@ -10,6 +10,7 @@ Hi there! I'm Sohan, a passionate web developer with a strong focus on **Sql, Py
   - **Frontend:** React, HTML, CSS, js, tailwind
   - **Backend:** Express.js, Node.js, Python , Django
   - **Database:** MongoDB, SQL
+  - **TOOLS:** Docker, n8n, github
 
 - 🌐 **Links:**
   - [LinkedIn](https://www.linkedin.com/in/sohan--thakur/)
