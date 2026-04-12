@@ -1,53 +1,153 @@
-## Hi there 👋
+# 👋 Hi, I'm Sohan Thakur
 
-# 👋 Welcome to Sohan's GitHub Profile!
+🚀 **Backend Developer | Python | Okta | Cybersecurity Enthusiast**
 
-## About Me
+---
 
-Hi there! I'm Sohan, a passionate web developer with a strong focus on **Sql, Python , React**. I love building dynamic and engaging web applications and exploring the world of technology.
+## 🧑‍💻 About Me
 
-- 💻 **Tech Stack:**
-  - **Frontend:** React, HTML, CSS, js, tailwind
-  - **Backend:** Express.js, Node.js, Python , Django
-  - **Database:** MongoDB, SQL
-  - **TOOLS:** Docker, n8n, github
+I am a **Backend Developer with 2+ years of experience** in building scalable and secure applications.
 
-- 🌐 **Links:**
-  - [LinkedIn](https://www.linkedin.com/in/sohan--thakur/)
-  - [Portfolio](https://sohan-wslj.onrender.com/) <!-- Link to your portfolio website -->
-  
+I specialize in:
+
+* 🔐 Identity & Access Management (SSO, SAML, Okta)
+* ⚙️ Backend Systems (Python, Node.js)
+* 🛡️ Cybersecurity fundamentals & secure architecture
+* 🌐 Networking & system-level understanding
+
+I focus on writing **clean, efficient, and secure code** while solving real-world problems.
+
+---
+
+## ⚡ Tech Stack
+
+### 🔹 Backend
+
+* Python (FastAPI, Django)
+* Node.js, Express.js
+* REST API Development
+
+### 🔹 Identity & Security
+
+* SSO (Single Sign-On)
+* SAML, OAuth 2.0
+* Okta Integration
+* Authentication & Authorization
+
+### 🔹 Database
+
+* PostgreSQL
+* SQL
+* MongoDB
+
+### 🔹 Frontend (Working Knowledge)
+
+* React.js
+* HTML, CSS, JavaScript
+* Tailwind CSS, Material UI
+
+### 🔹 Tools & DevOps
+
+* Docker
+* Git & GitHub
+* GitHub Actions (CI/CD)
+* Jira
+
+---
+
+## 🧠 Core Strengths
+
+* 🔐 Secure authentication system design (SSO, SAML, Okta)
+* ⚙️ Scalable backend architecture
+* 📊 Database design & optimization
+* 🌐 Networking (HTTP, TCP/IP, DNS basics)
+* 🛡️ API security & best practices
+* 🔄 Automation & CI/CD pipelines
+
+---
 
 ## 🛠️ Projects
 
-### 📚 Dappr-a-React-Web-Page
-An HTML-based React web page. [Explore Project](https://thsonu35.github.io/Dappr-a-react-wep-page/) <!-- Link to your project -->
+### 🚀 Pro Manage (MERN Stack)
 
-### 📊 Pro-Manage
-A project focused on JavaScript. [Explore Project](https://pro-manage-blush.vercel.app/dashboard) <!-- Link to your project -->
+A full-stack productivity tool with authentication, task tracking, and responsive UI.
 
-### 🧮 My-Calculater
-A responsive calculator built with HTML. [Explore Project](https://thsonu35.github.io/My-Calculater/) <!-- Link to your project -->
+* Built using MERN stack
+* Secure API handling
+* Optimized UI/UX
 
-### 📓 Pocket-Notes
-A JavaScript-based note-taking application. [Explore Project](https://project1-omega-three.vercel.app/) <!-- Link to your project -->
+---
 
-### 🖥️ HTML-CSS-PROJECT
-Check out the site from this link: [Explore Project](https://thsonu35.github.io/HTML-CSS-PROJECT/index.html) <!-- Link to your project -->
+### 📝 Blog App (Multi Backend Practice)
+
+Same frontend integrated with **Node.js + Django backends**
+
+* Authentication system
+* API comparison (Node vs Django)
+* Scalable backend structure
+
+---
+
+### 🔄 CRM Sync System (GoHighLevel Integration)
+
+Bidirectional data sync between local DB and CRM
+
+* Webhooks & automation
+* Real-time updates
+* Backend event handling
+
+---
+
+### 📁 Virtual File Manager System
+
+A system to access personal storage remotely
+
+* Authentication system
+* File handling APIs
+* Remote access logic
+
+---
+
+### 🩸 Blood Bank Management System
+
+Built using Python & Django
+
+* Data management system
+* Admin & user roles
+* Backend-heavy logic
+
+---
+
+### 🎨 Frontend Projects Collection
+
+Includes multiple UI projects like:
+
+* Calculator
+* Notes App
+* Landing Pages
+* Interactive UI designs
+
+---
 
 ## 📈 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thsonu35\&layout=compact\&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan&layout=compact&hide_border=false&bg_color=0d1117&text_color=c9d1d9&icon_color=79c0ff)
+---
 
-## 🎨 Technologies & Tools
+## 🎯 Current Focus
 
-- **React, Node.js, Express.js, Django , Python**
-- **TailwindCss, Material-Ui**
-- **MongoDB, SQL**
-- **HTML, CSS, Javascript**
+* 🔥 Advanced Backend Development
+* 🛡️ Cybersecurity & Ethical Hacking
+* 🧠 System Design & Architecture
+* 🔐 Deep dive into Okta & Identity Systems
 
-## 📬 Let's Connect!
+---
 
-Feel free to reach out to me via [My-portfolio](https://sohan-singh-thakur.onrender.com/) or connect with me on [LinkedIn](https://www.linkedin.com/in/sohan--thakur/).
+## 📬 Connect With Me
 
-Thanks for stopping by! 🚀
+* 💼 EMAIL:   thson350@gmail.com
+
+---
+
+⭐ **“Building secure systems, not just features.”**
