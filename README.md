@@ -121,7 +121,6 @@ I specialize in **API development, system integration, and database design**, fo
 
 - 📍 Bangalore, India  
 - 📧 thsonu350@gmail.com  
-- 📱 +91-8871400458  
 
 ---
 
