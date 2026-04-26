@@ -120,7 +120,8 @@ I specialize in **API development, system integration, and database design**, fo
 ## 📫 Contact
 
 - 📍 Bangalore, India  
-- 📧 thsonu350@gmail.com  
+- 📧 thsonu350@gmail.com
+- 📫 https://sohaninfo.vercel.app/
 
 ---
 
