@@ -1,153 +1,132 @@
-# 👋 Hi, I'm Sohan Thakur
-
-🚀 **Backend Developer | Python | Okta | Cybersecurity Enthusiast**
-
----
-
-## 🧑‍💻 About Me
-
-I am a **Backend Developer with 2+ years of experience** in building scalable and secure applications.
-
-I specialize in:
-
-* 🔐 Identity & Access Management (SSO, SAML, Okta)
-* ⚙️ Backend Systems (Python, Node.js)
-* 🛡️ Cybersecurity fundamentals & secure architecture
-* 🌐 Networking & system-level understanding
-
-I focus on writing **clean, efficient, and secure code** while solving real-world problems.
+# 🚀 SOHAN SINGH THAKUR  
+### Backend Developer | Python | Django | FastAPI | Node.js  
 
 ---
 
-## ⚡ Tech Stack
+## 👨‍💻 About Me
+Backend Developer with **2+ years of experience** building scalable, secure, and production-ready backend systems.  
+I specialize in **API development, system integration, and database design**, focusing on performance and reliability.
 
-### 🔹 Backend
-
-* Python (FastAPI, Django)
-* Node.js, Express.js
-* REST API Development
-
-### 🔹 Identity & Security
-
-* SSO (Single Sign-On)
-* SAML, OAuth 2.0
-* Okta Integration
-* Authentication & Authorization
-
-### 🔹 Database
-
-* PostgreSQL
-* SQL
-* MongoDB
-
-### 🔹 Frontend (Working Knowledge)
-
-* React.js
-* HTML, CSS, JavaScript
-* Tailwind CSS, Material UI
-
-### 🔹 Tools & DevOps
-
-* Docker
-* Git & GitHub
-* GitHub Actions (CI/CD)
-* Jira
+- 🔧 Strong in RESTful API development  
+- 🔗 Experience with external API integration (REST & SOAP)  
+- 🧠 Debugging, logging & system-level problem solving  
+- 🐧 Linux (SSH, deployment, monitoring)
 
 ---
 
-## 🧠 Core Strengths
+## 🛠️ Tech Stack
 
-* 🔐 Secure authentication system design (SSO, SAML, Okta)
-* ⚙️ Scalable backend architecture
-* 📊 Database design & optimization
-* 🌐 Networking (HTTP, TCP/IP, DNS basics)
-* 🛡️ API security & best practices
-* 🔄 Automation & CI/CD pipelines
+### 💻 Backend
+- Python (Django, FastAPI)
+- Node.js, Express
 
----
+### 🗄️ Databases
+- PostgreSQL  
+- MySQL  
+- MongoDB  
 
-## 🛠️ Projects
+### 🌐 API & Integration
+- REST APIs  
+- SOAP APIs  
+- JSON Processing  
+- Authentication & Authorization  
 
-### 🚀 Pro Manage (MERN Stack)
-
-A full-stack productivity tool with authentication, task tracking, and responsive UI.
-
-* Built using MERN stack
-* Secure API handling
-* Optimized UI/UX
-
----
-
-### 📝 Blog App (Multi Backend Practice)
-
-Same frontend integrated with **Node.js + Django backends**
-
-* Authentication system
-* API comparison (Node vs Django)
-* Scalable backend structure
+### ⚙️ Tools & DevOps
+- Git & GitHub  
+- Postman  
+- Docker  
+- Linux (Ubuntu)  
+- CI/CD  
+- Render, Vercel  
+- Jira  
 
 ---
 
-### 🔄 CRM Sync System (GoHighLevel Integration)
+## 💼 Work Experience
 
-Bidirectional data sync between local DB and CRM
-
-* Webhooks & automation
-* Real-time updates
-* Backend event handling
-
----
-
-### 📁 Virtual File Manager System
-
-A system to access personal storage remotely
-
-* Authentication system
-* File handling APIs
-* Remote access logic
+### 🏢 Python Backend Developer — Zino Technology (2025 – Present)
+- Built backend scripts for business workflows & automation  
+- Integrated external APIs (REST/SOAP) with authentication  
+- Implemented validation & business logic for data accuracy  
+- Worked with PostgreSQL using psycopg2  
+- Debugged production issues using logs & tracebacks  
+- Managed deployments using SSH in Linux  
+- Improved reliability using structured exception handling  
 
 ---
 
-### 🩸 Blood Bank Management System
-
-Built using Python & Django
-
-* Data management system
-* Admin & user roles
-* Backend-heavy logic
-
----
-
-### 🎨 Frontend Projects Collection
-
-Includes multiple UI projects like:
-
-* Calculator
-* Notes App
-* Landing Pages
-* Interactive UI designs
+### 🏢 Junior Developer — BestPeers Infosystem (2024 – 2025)
+- Developed backend applications using Django  
+- Built REST APIs and handled business logic  
+- Implemented authentication & access control  
+- Reduced bugs by ~25% through debugging  
+- Learned IAM, SSO, and security fundamentals  
 
 ---
 
-## 📈 GitHub Stats
+## 📂 Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thsonu35\&layout=compact\&theme=github_dark)
-
----
-
-## 🎯 Current Focus
-
-* 🔥 Advanced Backend Development
-* 🛡️ Cybersecurity & Ethical Hacking
-* 🧠 System Design & Architecture
-* 🔐 Deep dive into Okta & Identity Systems
+### 🔹 Low-Code Workflow & API Engine
+- Developed CRUD APIs for dynamic workflow creation  
+- Built backend pipelines for automation  
+- Integrated external APIs with error handling  
+- Used PostgreSQL for data storage  
 
 ---
 
-## 📬 Connect With Me
-
-* 💼 EMAIL:   thson350@gmail.com
+### 🔹 API Integration & Data Processing System
+- Designed Python modules for API integrations  
+- Handled payloads, authentication, and responses  
+- Implemented retry logic and exception handling  
+- Automated data exchange between systems  
 
 ---
 
-⭐ **“Building secure systems, not just features.”**
+### 🔹 Log Monitoring & Error Handling System
+- Built scripts for log monitoring and error detection  
+- Automated log parsing for issue tracking  
+- Improved reliability via log-based debugging  
+
+---
+
+### 🔹 Backend API Service (FastAPI)
+- Developed REST APIs with CRUD operations  
+- Implemented validation and structured responses  
+- Integrated PostgreSQL database  
+- Optimized endpoints for performance  
+
+---
+
+## 🔐 Certifications
+
+- 🎓 Cisco Cybersecurity Internship  
+  - Threats, vulnerabilities, IAM, MFA, encryption  
+
+- 🐍 Python Programming — EC-Council  
+  - Secure coding & automation scripting  
+
+---
+
+## 🎯 What I Focus On
+
+- Clean, maintainable backend code  
+- Scalable API architecture  
+- Data consistency & reliability  
+- Deep debugging using logs & traces  
+- Backend + Cybersecurity learning  
+
+---
+
+## 📫 Contact
+
+- 📍 Bangalore, India  
+- 📧 thsonu350@gmail.com  
+- 📱 +91-8871400458  
+
+---
+
+## ⚡ Goals
+
+- 🚀 Build production-grade backend systems  
+- 🔐 Explore backend + security integration  
+- 🌐 Work on real-world API-heavy projects
